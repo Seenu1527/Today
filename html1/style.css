@@ -1,0 +1,17 @@
+
+h1{
+    background-color:black;
+    color:orange;
+    font-size:60px;
+    text-align:center;
+    
+}
+p{
+    color:rgb(0, 195, 255);
+    text-align:center;
+    font-size:40px;
+    background-color:red;
+}
+body{
+    background-color: cornflowerblue;
+}
